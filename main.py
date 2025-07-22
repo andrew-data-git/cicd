@@ -6,6 +6,7 @@ import random
 def rand_generator(min, max):
     return random.randint(min, max)
 
+
 def check_if_even(number):
     if number % 2 == 0:
         return 'EVEN'
