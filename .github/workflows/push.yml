@@ -21,5 +21,5 @@ jobs:
       run: pytest test_main.py
 
     - name: Run script
-      run: python my_script.py
+      run: python main.py
 
