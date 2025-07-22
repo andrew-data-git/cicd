@@ -1,4 +1,8 @@
+
+
 from main import rand_generator
+
+
 def test_rand_generator():
     for _ in range(100):
         result = rand_generator(1, 10)
