@@ -1,7 +1,6 @@
 
 
 from main import rand_generator, check_if_even
-from main import rand_generator, check_if_even
 
 
 def test_rand_generator():
